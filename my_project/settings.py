@@ -27,9 +27,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     '8000-webmaganton-djangoproje-x2787y8822d.ws.codeinstitute-ide.net',
-    '.herokuapp.com'
-]
-
+    '.herokuapp.com']
 
 # Application definition
 
